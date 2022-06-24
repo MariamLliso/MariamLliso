@@ -39,22 +39,21 @@
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" />
 </p>
 
-### ⚡️ GitHub Stats
-
 </br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MariamLliso's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MariamLliso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MariamLliso's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamLliso&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+### ✨ GitHub Stats
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <summary>🪐 All stats</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MariamLliso's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MariamLliso&show_icons=true&count_private=true&hide_border=true&bg_color=DEG,91e5f6,80ced7&title_color=012a4a&text_color=012a4a&icon_color=f26419" height="192px"/></a>
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamLliso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details> 
+  <summary>☄️ Most used languages</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MariamLliso's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamLliso&langs_count=8&layout=compact&hide_border=true&bg_color=DEG,91e5f6,80ced7&title_color=012a4a&text_color=012a4a&custom_title=MariamLliso's top languages" height="192px"/></a>
+  ⚠️ <b>Discleimer:</b> Most used languages is only a metric of the languages my public code consists.
+</details>
+</br>
 
 <h3 align="center">
   You can find me at
@@ -62,9 +61,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariam-lliso/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.behance.net/mariamlliso">
-    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=flat-square&logo=behance&logoColor=white" />        
   </a>
 </p>
