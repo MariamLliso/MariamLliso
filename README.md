@@ -5,7 +5,6 @@
 </h3>
 
 ### 🛠 Tools and technologies I use
-
 </br>
 
 `💻 to code amazing stuff`
@@ -39,18 +38,19 @@
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" />
 </p>
 
-</br>
-
 ### ✨ GitHub Stats
-
+</br>
 <details> 
   <summary>🪐 All stats</summary>
+  </br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MariamLliso's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MariamLliso&show_icons=true&count_private=true&hide_border=true&bg_color=DEG,91e5f6,80ced7&title_color=012a4a&text_color=012a4a&icon_color=f26419" height="192px"/></a>
 </details>
 
 <details> 
   <summary>☄️ Most used languages</summary>
+  </br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MariamLliso's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamLliso&langs_count=8&layout=compact&hide_border=true&bg_color=DEG,91e5f6,80ced7&title_color=012a4a&text_color=012a4a&custom_title=MariamLliso's top languages" height="192px"/></a>
+  </br>
   ⚠️ <b>Discleimer:</b> Most used languages is only a metric of the languages my public code consists.
 </details>
 </br>
