@@ -1,7 +1,7 @@
 <h3 align="center">
   ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> I'm Mariam Lliso
   </br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&color=61DAFB&center=true&vCenter=true&lines=Frontend+Developer;Backend+Developer;UX%2FUI+Designer+in+training">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&color=61DAFB&center=true&vCenter=true&lines=Frontend+Developer;Backend+Developer;UX%2FUI+Designer">
 </h3>
 
 ### 🛠 Tools and technologies I use
