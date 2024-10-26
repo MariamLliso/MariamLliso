@@ -42,11 +42,10 @@
 `🎨 to desing pretty things`
 
 <p>
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe XD-f15bb5?style=flat-square&logo=Adobe XD&logoColor=white" />
-  <img alt="Adobe InDesign" src="https://img.shields.io/badge/-Adobe InDesign-FF3366?style=flat-square&logo=Adobe InDesign&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-FF7262?style=flat-square&logo=Figma&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" />
+  <img alt="Adobe InDesign" src="https://img.shields.io/badge/-Adobe InDesign-FF3366?style=flat-square&logo=Adobe InDesign&logoColor=white" />
 </p>
 
 <h3 align="center">
